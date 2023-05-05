@@ -1,4 +1,9 @@
 ### Hi there 👋
+<br>
+
+# To Do List
+![alt text for screen readers](todolist.gif "Text to show on mouseover").
+
 
 <!--
 **jojo987N/jojo987N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
