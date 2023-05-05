@@ -2,8 +2,9 @@
 <br>
 
 # To Do List
-<img src="todolist.gif" alt="MarineGEO circle logo" style="width:300px;"/>
-
+<p align="center">
+<img src="todolist.gif" alt="MarineGEO circle logo" style="width:80%;"/>
+</p>
 
 <!--
 **jojo987N/jojo987N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
