@@ -3,7 +3,7 @@
 
 # To Do List
 <p align="center">
-<img src="todolist.gif" alt="MarineGEO circle logo" style="width:80%;"/>
+<img src="todolist.gif" alt="MarineGEO circle logo" style="width:50%;"/>
 </p>
 
 <!--
