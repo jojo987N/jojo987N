@@ -1,5 +1,4 @@
 ### Hi there 👋
-<br>
 
 # To Do List
 <p align="center">
