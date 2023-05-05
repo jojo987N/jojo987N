@@ -2,7 +2,7 @@
 <br>
 
 # To Do List
-![alt text for screen readers](todolist.gif "Text to show on mouseover").
+<img src="todolist.gif" alt="MarineGEO circle logo" style="width:300px;"/>
 
 
 <!--
