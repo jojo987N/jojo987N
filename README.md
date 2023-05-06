@@ -2,7 +2,7 @@
 
 # To Do List
 <p align="center">
-<img src="todolist1.gif" alt="To do list app" style="width:80%;"/>
+<a href="https://jojo987n.github.io/to-do-list/dist/"><img src="todolist1.gif" alt="To do list app" style="width:80%;"/></a>
 </p>
 
 <!--
