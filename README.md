@@ -3,7 +3,7 @@
 <table >
     <tr>
         <td  colspan="2" style="border: 1px solid black;">
-        <p>A little more about me...</p>
+         <b>A little more about me...</b>
 <pre>
 
 ```javascript
