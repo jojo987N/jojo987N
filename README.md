@@ -15,15 +15,12 @@ class me {
             frameworks: ["React", "Redux", "React Native"]
         }
         this.projects = {
-            microverse: ["Portfolio", "First capstone", "Book list", "To do List"],
-            "before microverse": ["uber eats clone app", "taxi app", "kohana backend"],
+            microverse: ["Portfolio", "Book list", "To do List"],
+            "before microverse": ["uber eats clone app"],
         }
-        this.background = "I have 4+ years of experience in web and mobile development"
+        this.background = "I studied mathematics and computer science"
     } lookingFor = () => ({
-        "Remote Job": {
-            "Full-stack web developer": "Front-end developer" || "Back-end developer",
-            "Full-stack mobile developer": "Android" || "Ios"
-        }
+        "Remote Job": "Front-end developer" || "Back-end developer",
     })
 }
 ```
