@@ -29,11 +29,7 @@ computer science`
 </pre>
         </td>
         <td style="">
-<p style="">
- 
 *Last implementation* : **To Do List drag and drop**
- 
-</p>
             <p>
              <a href="https://jojo987n.github.io/to-do-list/dist/" target="_blank"><img src="todolist1.gif" alt="MarineGEO circle logo" style=""/></a>
             </p>
