@@ -8,19 +8,24 @@
 
 ```javascript
 class me {
-    constructor(){
+    constructor() {
         this.pronouns = ["he", "his"];
         this.skills = {
-            language : ["JavaScript", "HTML", "CSS"],
+            language: ["JavaScript", "HTML", "CSS"],
             frameworks: ["React", "Redux", "React Native"]
-        }this.projects = {
-            microverse : ["Portfolio", "First capstone", "Book list", "To do List"],
-            "before microverse": ["uber eats clone app", "taxi app", "kohana backend"]
-        }this.background = "I have 4+ years of experience in web and mobile development"
-   }lookingFor = () =>  ({
-        "Remote Job":{
-            "Full-stack web developer": "Front-end developer"  || "Back-end developer",
-            "Full-stack mobile developer": "Android"  || "Ios"}})}
+        }
+        this.projects = {
+            microverse: ["Portfolio", "First capstone", "Book list", "To do List"],
+            "before microverse": ["uber eats clone app", "taxi app", "kohana backend"],
+        }
+        this.background = "I have 4+ years of experience in web and mobile development"
+    } lookingFor = () => ({
+        "Remote Job": {
+            "Full-stack web developer": "Front-end developer" || "Back-end developer",
+            "Full-stack mobile developer": "Android" || "Ios"
+        }
+    })
+}
 ```
 </pre>
         </td>
