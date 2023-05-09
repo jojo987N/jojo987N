@@ -17,7 +17,7 @@ class me {
      this.projects = {
        microverse: ["Portfolio", "Book list", "To do List"],
        "before microverse": ["uber eats clone app"],
-   }
+       }
      this.background = `I studied mathematics and 
      computer science` }
     lookingFor = () => ({
