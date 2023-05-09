@@ -7,7 +7,7 @@
 <pre>
 
 ```javascript
-class me {
+class Me {
     constructor() {
      this.pronouns = ["he", "his"];
       this.skills = {
