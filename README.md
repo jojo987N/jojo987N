@@ -31,7 +31,7 @@ class Me {
         <td style="">
 <p style="">
  
-*Last implementation* : **Poweful calculator**
+*Last implementation* : **Powerful calculator**
  
 </p>
             <p>
