@@ -35,7 +35,7 @@ class Me {
  
 </p>
             <p>
-             <a href="https://github.com/jojo987N/to-do-list" target="_blank"><img src="todolist1.gif" alt="MarineGEO circle logo" style="height:250px"/></a>
+             <a href="https://github.com/jojo987N/to-do-list" target="_blank"><img src="calculator.gif" alt="MarineGEO circle logo" style="height:250px"/></a>
             </p>
         </td>
     </tr>
