@@ -31,7 +31,7 @@ class Me {
         <td style="">
 <p style="">
  
-*Last implementation* : **To Do List drag and drop**
+*Last implementation* : **Poweful calculator**
  
 </p>
             <p>
