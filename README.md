@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Narcisse Jemba! 
+### Hi there 👋 
  
 <table >
     <tr>
