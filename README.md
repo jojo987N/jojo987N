@@ -35,7 +35,7 @@ class Me {
  
 </p>
             <p>
-             <a href="https://jojo987n.github.io/math-magicians/" target="_blank"><img src="calculator.gif" alt="MarineGEO circle logo" style="width:350px"/></a>
+             <a href="https://jojo987n.github.io/math-magicians/" target="_blank"><img src="bookstore.gif" alt="MarineGEO circle logo" style="width:350px"/></a>
             </p>
         </td>
     </tr>
