@@ -1,41 +1,29 @@
-### Hi there 👋 
+### *Last implementation* 👋 : **Amazing Bookstore !**
  
+ [![Book](bookstore.gif)](https://jojo987n.github.io/Bookstore/)
 <table >
     <tr>
-        <td  colspan="2" style="border: 1px solid black;">
+        <td   >
          <p><b>A little more about me...</b></p>
 <pre>
 
 ```javascript
-class Me {
-    constructor() {
-     this.pronouns = ["he", "his"];
-      this.skills = {
-       language: ["JavaScript", "HTML", "CSS"],
-       frameworks: ["React", "Redux", "React Native"]
-     }
-     this.projects = {
-       microverse: ["Portfolio", "Book list", "To do List"],
-       "before microverse": ["uber eats clone app"],
-       }
-     this.background = `I studied mathematics and 
-     computer science` }
-    lookingFor = () => ({
-       "Remote Job": 
-       "Front-end developer" || "Back-end developer",
-        })
-   }
+const Me = {
+  lookingFor: "Front-end" || "Back-end",
+  code: [JavaScript, React, Redux, Ruby 
+  on Rails, HTML/CSS]
+}
 ```
 </pre>
         </td>
         <td style="">
 <p style="">
  
-*Last implementation* : **Powerful calculator !**
+*Nice implementation* : **Powerful calculator !**
  
 </p>
             <p>
-             <a href="https://jojo987n.github.io/math-magicians/" target="_blank"><img src="bookstore.gif" alt="MarineGEO circle logo" style="width:350px"/></a>
+             <a href="https://jojo987n.github.io/math-magicians/" target="_blank"><img src="calculator.gif" alt="MarineGEO circle logo" style="width:350px"/></a>
             </p>
         </td>
     </tr>
