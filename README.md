@@ -8,11 +8,24 @@
 <pre>
 
 ```javascript
-const Me = {
-  lookingFor: "Front-end" || "Back-end",
-  code: [JavaScript, React, Redux, Ruby 
-  on Rails, HTML/CSS]
-}
+class Me {
+    constructor() {
+     this.pronouns = ["he", "his"];
+      this.skills = {
+       language: ["JavaScript", "HTML", "CSS"],
+       frameworks: ["React", "Redux", "React Native"]
+     }
+     this.projects = {
+       microverse: ["Portfolio", "Book list", "To do List"],
+       "before microverse": ["uber eats clone app"],
+       }
+     this.background = `I studied mathematics and 
+     computer science` }
+    lookingFor = () => ({
+       "Remote Job": 
+       "Front-end developer" || "Back-end developer",
+        })
+   }
 ```
 </pre>
         </td>
