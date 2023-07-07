@@ -1,5 +1,6 @@
-### *Last implementation* 👋 : **Amazing Bookstore !**
- [c](https://www.codewars.com/users/Jemba/badges/large)
+<table><tr><td><b>Codewars Badge</b></td><td valign="center"><img src="https://www.codewars.com/users/Jemba/badges/large" /></td></tr></table>
+
+### *Last implementation* 👋 : **Amazing Bookstore !**  
  [![Book](bookstore.gif)](https://jojo987n.github.io/Bookstore/)
 <table >
     <tr>
