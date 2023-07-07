@@ -1,6 +1,6 @@
 ### *Last implementation* 👋 : **Amazing Bookstore !**
  
- [![Book](bookstore.gif)](https://jojo987n.github.io/Bookstore/)
+ [![Book](bookstore.gif)](https://jojo987n.github.io/Bookstore/) | [c](https://www.codewars.com/users/Jemba/badges/large)
 <table >
     <tr>
         <td   >
